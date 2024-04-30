@@ -33,6 +33,24 @@ public class Main {
         System.out.println();
         System.out.println();
 
+    // Vemos que se agreguen los libros a las listas de Autores
+
+        System.out.println( "Lista de libros publicados por " + leonardoPadura.getNombreAutor() + ":");
+        for (Libro listaLibrosAutor : leonardoPadura.getLibrosAutor()){
+            System.out.println(listaLibrosAutor.getTitulo());
+        }
+
+        System.out.println();
+
+        System.out.println();
+
+    // Imprimir la línea separadora
+        for (int i = 0; i < 100; i++) {
+            System.out.print("-");
+        }
+        System.out.println();
+        System.out.println();
+
     // Vemos que se agreguen y funcione la lista general de libros
 
         System.out.println( "Lista general de libros:");

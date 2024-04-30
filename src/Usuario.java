@@ -3,7 +3,7 @@ import java.util.List;
 
 public class Usuario {
     private String nombre;
-    private List<Libro> libros_prestados;
+    protected List<Libro> libros_prestados;
 
     public Usuario (String nombreUsuario){
     this.nombre = nombreUsuario;

@@ -22,7 +22,7 @@ public class Autor {
     }
 
     //Obtener lista de libros por autor
-    public List<Libro> getLibrosAutor(){
+    public  List<Libro> getLibrosAutor(){
         return lista_libros_autor;
     }
 
