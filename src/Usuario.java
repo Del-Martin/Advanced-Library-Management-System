@@ -53,7 +53,7 @@ public class Usuario {
             }
         }
         if (libroEncontrado == false){
-            System.out.println("El Libro con el nombre \"" + libroAlquilado + "\" no existe." );
+            System.out.println("No hemos encontrado el libro llamado: " + libroAlquilado + "." );
         }
     }
 
