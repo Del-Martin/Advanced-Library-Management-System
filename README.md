@@ -37,7 +37,7 @@ Premium Member Management:
 This system showcases efficient library management by integrating core functionalities that allow seamless book borrowing, returning, and reservation processes.  
 
 **Credits**  
-Developed by: **Martín Delfini**
+Developed by: **Martín Delfini** - 
 Date: April 30, 2024
 
 --- 
@@ -81,5 +81,5 @@ Gestión de Miembros Premium:
 Este sistema demuestra una gestión eficiente de la biblioteca al integrar funcionalidades básicas que permiten procesos fluidos de préstamo, devolución y reserva de libros.  
 
 **Créditos**  
-Desarrollado por: **Martín Delfini**  
+Desarrollado por: **Martín Delfini** - 
 Fecha: 30 de abril de 2024
