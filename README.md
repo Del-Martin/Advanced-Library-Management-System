@@ -34,7 +34,11 @@ Premium Member Management:
 - Premium Members reserving and borrowing books, depending on availability.
 - Real-time tracking of book availability status.
     
-This system showcases efficient library management by integrating core functionalities that allow seamless book borrowing, returning, and reservation processes.
+This system showcases efficient library management by integrating core functionalities that allow seamless book borrowing, returning, and reservation processes.  
+
+**Credits**  
+Developed by: **Martín Delfini**
+Date: April 30, 2024
 
 --- 
 # Sistema Avanzado de Gestión de Biblioteca
@@ -74,4 +78,8 @@ Gestión de Miembros Premium:
 - Miembros premium reservando y tomando prestados libros, según disponibilidad.
 - Seguimiento en tiempo real del estado de disponibilidad de los libros.
   
-Este sistema demuestra una gestión eficiente de la biblioteca al integrar funcionalidades básicas que permiten procesos fluidos de préstamo, devolución y reserva de libros.
+Este sistema demuestra una gestión eficiente de la biblioteca al integrar funcionalidades básicas que permiten procesos fluidos de préstamo, devolución y reserva de libros.  
+
+**Créditos**  
+Desarrollado por: **Martín Delfini**  
+Fecha: 30 de abril de 2024
